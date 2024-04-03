@@ -1,0 +1,1 @@
+# tokenlist for Satoshi VM
