@@ -1,0 +1,38 @@
+{
+  "name": "SAVM Tokens",
+  "tags": {},
+  "tokens": [
+    {
+      "name": "BTC",
+      "symbol": "BTC",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 3109,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+      "decimals": 18
+    },
+    {
+      "name": "WBTC",
+      "symbol": "WBTC",
+      "address": "0x5db252ead05C54B08A83414adCAbF46Eaa9E0337",
+      "chainId": 3109,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+      "decimals": 18
+    },
+    {
+      "name": "SAVM",
+      "symbol": "SAVM",
+      "address": "0x0E02765992f946397E6d2e65642eABb9cc674928",
+      "chainId": 3109,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29095.png",
+      "decimals": 18
+    }
+  ],
+  "logoURI": "https://www.savmswap.io/favicon.png",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [],
+  "timestamp": "2024-03-17T00:00:00+00:00"
+}
