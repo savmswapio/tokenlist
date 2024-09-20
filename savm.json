@@ -2,30 +2,46 @@
   "name": "SAVM Tokens",
   "tags": {},
   "tokens": [
-    {
-      "name": "BTC",
-      "symbol": "BTC",
-      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-      "chainId": 3109,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
-      "decimals": 18
-    },
-    {
-      "name": "WBTC",
-      "symbol": "WBTC",
-      "address": "0x5db252ead05C54B08A83414adCAbF46Eaa9E0337",
-      "chainId": 3109,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
-      "decimals": 18
-    },
-    {
-      "name": "SAVM",
-      "symbol": "SAVM",
-      "address": "0x0E02765992f946397E6d2e65642eABb9cc674928",
-      "chainId": 3109,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29095.png",
-      "decimals": 18
-    }
+        {
+            "name": "BTC",
+            "symbol": "BTC",
+            "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+            "chainId": 3109,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+            "decimals": 18
+        },
+        {
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "address": "0x5db252ead05C54B08A83414adCAbF46Eaa9E0337",
+            "chainId": 3109,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+            "decimals": 18
+        },
+        {
+            "name": "SatoshiVM",
+            "symbol": "SAVM",
+            "address": "0x0E02765992f946397E6d2e65642eABb9cc674928",
+            "chainId": 3109,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29095.png",
+            "decimals": 18
+        },
+        {
+            "name": "Bridged ETH",
+            "symbol": "ETH.s",
+            "address": "0x9cd05e92a79f4090a26312f30aec5f53fe8aefde",
+            "chainId": 3109,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+            "decimals": 18
+        },
+        {
+            "name": "Bridged USDT",
+            "symbol": "USDT.s",
+            "address": "0xac2cb695a1b8a84cbd4f60e967703289410cdf83",
+            "chainId": 3109,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+            "decimals": 6
+        }
   ],
   "logoURI": "https://www.savmswap.io/favicon.png",
   "version": {
